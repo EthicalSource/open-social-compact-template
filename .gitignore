@@ -1,0 +1,6 @@
+/public
+*.DS_Store
+.hugo_build.lock
+/resources/
+.nova/*
+/.nova/*
