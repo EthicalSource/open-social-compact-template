@@ -12,6 +12,10 @@ The Open Social Compact lets communities define the fundamental rights of all th
 
 The Open Social Compact will also provide an innovative model for centering and elevating the safety and well-being not only of maintainers, collaborators, adopters, and users, but– most importantly– the safety and well-being of those who are most impacted by technologies we create, whether explicitly or implicitly, directly or indirectly, consensually or coercively.
 
+## References
+* [https://open-social-compact.dev](https://open-social-compact.dev)
+* Coraline Ada Ehmke presenting the Open Social Compact to the Metagovernance Seminar in November 2022 [video](https://archive.org/details/ehmke-metagov-20221130)
+
 ## How to use this repository
 TODO
 
