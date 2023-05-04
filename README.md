@@ -14,7 +14,7 @@ The Open Social Compact will also provide an innovative model for centering and 
 
 ## References
 * [https://open-social-compact.dev](https://open-social-compact.dev)
-* Coraline Ada Ehmke presenting the Open Social Compact to the Metagovernance Seminar in November 2022 [video](https://archive.org/details/ehmke-metagov-20221130)
+* @CoralineAda presenting the Open Social Compact to the Metagovernance Seminar in November 2022 [video](https://archive.org/details/ehmke-metagov-20221130)
 
 ## How to use this repository
 TODO
